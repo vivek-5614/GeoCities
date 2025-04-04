@@ -1,0 +1,31 @@
+.limit-selector {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+  font-size: 14px;
+  color: rgb(33, 37, 41);
+}
+
+.limit-selector input {
+  height: 24px;
+  width: 48px;
+  padding: 0 4px;
+  border: 1px solid rgb(222, 226, 230);
+  border-radius: 2px;
+  font-size: 12px;
+  font-family:
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    'Noto Sans',
+    'Liberation Sans',
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol',
+    'Noto Color Emoji';
+}
